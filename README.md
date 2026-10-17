@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vijay Sai Krishna Suri
 
-**Senior Software Engineer (Frontend / Full Stack) @ Freshworks**
+**Senior Software Engineer (Frontend / Full Stack) @ Agiloft**
 
 I build reliable, accessible, and scalable frontend experiences, with a growing focus on **AI-driven (agentic) user interfaces** and **client-side performance**.
 
